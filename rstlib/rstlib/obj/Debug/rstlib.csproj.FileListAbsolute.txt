@@ -1,0 +1,9 @@
+D:\rst\rstlib\rstlib\bin\Debug\rstlib.dll
+D:\rst\rstlib\rstlib\bin\Debug\rstlib.pdb
+D:\rst\rstlib\rstlib\bin\Debug\Newtonsoft.Json.dll
+D:\rst\rstlib\rstlib\bin\Debug\Newtonsoft.Json.xml
+D:\rst\rstlib\rstlib\obj\Debug\rstlib.csprojResolveAssemblyReference.cache
+D:\rst\rstlib\rstlib\obj\Debug\rstlib.csproj.CoreCompileInputs.cache
+D:\rst\rstlib\rstlib\obj\Debug\rstlib.csproj.CopyComplete
+D:\rst\rstlib\rstlib\obj\Debug\rstlib.dll
+D:\rst\rstlib\rstlib\obj\Debug\rstlib.pdb

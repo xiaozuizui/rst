@@ -1,0 +1,12 @@
+D:\rst\rstlib\read\bin\Debug\read.exe.config
+D:\rst\rstlib\read\bin\Debug\read.exe
+D:\rst\rstlib\read\bin\Debug\read.pdb
+D:\rst\rstlib\read\bin\Debug\Newtonsoft.Json.dll
+D:\rst\rstlib\read\bin\Debug\Newtonsoft.Json.xml
+D:\rst\rstlib\read\obj\Debug\read.csproj.CoreCompileInputs.cache
+D:\rst\rstlib\read\obj\Debug\read.csproj.CopyComplete
+D:\rst\rstlib\read\obj\Debug\read.exe
+D:\rst\rstlib\read\obj\Debug\read.pdb
+D:\rst\rstlib\read\bin\Debug\rstlib.dll
+D:\rst\rstlib\read\bin\Debug\rstlib.pdb
+D:\rst\rstlib\read\obj\Debug\read.csprojResolveAssemblyReference.cache

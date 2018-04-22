@@ -1,0 +1,413 @@
+{
+    "media": [],
+    "bsdfs": [
+		{
+			"name":"light",
+			"albedo":1,
+			"type":"null"
+		},
+        {
+            "name": "Detail",
+            "albedo": [
+                0.5781549215316773,
+                0.2246493399143219,
+                0.21957282721996308
+            ],
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.561127
+        },
+        {
+            "name": "Material.001",
+            "albedo": 0.578596,
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.561404
+        },
+        {
+            "name": "Base",
+            "albedo": [
+                0.7235884070396423,
+                0.6285812854766846,
+                0.4704536497592926
+            ],
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.446754
+        },
+        {
+            "name": "Material",
+            "albedo": [
+                0.5785964727401733,
+                0.25927016139030459,
+                0.23288364708423615
+            ],
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.561404
+        },
+        {
+            "name": "Light",
+            "albedo": [
+                0.5785964727401733,
+                0.30300068855285647,
+                0.2561083436012268
+            ],
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.561404
+        },
+        {
+            "name": "Industrial_Rusty_Iron",
+            "albedo": [
+                0.4194123446941376,
+                0.39420056343078616,
+                0.3887980282306671
+            ],
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.229607
+        },
+        {
+            "name": "Material_1",
+            "albedo": "textures/plane.png",
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.561404
+        },
+        {
+            "name": "Material.001_1",
+            "albedo": 0.578596,
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.561404
+        },
+        {
+            "name": "Material.002",
+            "albedo": 0.578596,
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.561404
+        },
+        {
+            "name": "Material.003",
+            "albedo": 0.578596,
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.561404
+        },
+        {
+            "name": "painted_scratched_metal",
+            "albedo": 0.529961,
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.526902
+        },
+        {
+            "name": "painted_scratched_mix_industrial_iron",
+            "albedo": 0.578596,
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.561404
+        },
+        {
+            "name": "Material.004",
+            "albedo": 0.578596,
+            "type": "phong",
+            "exponent": 96.078003,
+            "diffuse_ratio": 0.561404
+        }
+    ],
+    "primitives": [
+		{
+			"transform":{"position":[0,30,0],"scale":[20,0,20],"rotation":[180,0,0]},
+			"bsdf":"light",
+			"type":"quad",
+			"emission":20
+			
+		},
+        {
+            "name": "Leg_Circle_1",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Leg_Circle_1.wo3",
+            "bsdf": "Detail"
+        },
+        {
+            "name": "Head.002_Cube.002_1",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Head.002_Cube.002_1.wo3",
+            "bsdf": "Material.001"
+        },
+        {
+            "name": "Head.001_Cube.000_1",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Head.001_Cube.000_1.wo3",
+            "bsdf": "Detail"
+        },
+        {
+            "name": "Foot_Cylinder_1",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Foot_Cylinder_1.wo3",
+            "bsdf": "Detail"
+        },
+        {
+            "name": "Mesh5",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Mesh5.wo3",
+            "bsdf": "Base"
+        },
+        {
+            "name": "Head_Cube.001_1",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Head_Cube.001_1.wo3",
+            "bsdf": "Detail"
+        },
+        {
+            "name": "Mesh7",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Mesh7.wo3",
+            "bsdf": "Base"
+        },
+        {
+            "name": "Mesh8",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Mesh8.wo3",
+            "bsdf": "Material"
+        },
+        {
+            "name": "Mesh9",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Mesh9.wo3",
+            "bsdf": "Light"
+        },
+        {
+            "name": "Leg_Circle",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Leg_Circle.wo3",
+            "bsdf": "Detail"
+        },
+        {
+            "name": "Head.002_Cube.002",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Head.002_Cube.002.wo3",
+            "bsdf": "Material.001"
+        },
+        {
+            "name": "Head.001_Cube.000",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Head.001_Cube.000.wo3",
+            "bsdf": "Detail"
+        },
+        {
+            "name": "Foot_Cylinder",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Foot_Cylinder.wo3",
+            "bsdf": "Detail"
+        },
+        {
+            "name": "Mesh14",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Mesh14.wo3",
+            "bsdf": "Base"
+        },
+        {
+            "name": "Head_Cube.001",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Head_Cube.001.wo3",
+            "bsdf": "Detail"
+        },
+        {
+            "name": "Mesh16",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Mesh16.wo3",
+            "bsdf": "Base"
+        },
+        {
+            "name": "Mesh17",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Mesh17.wo3",
+            "bsdf": "Material"
+        },
+        {
+            "name": "Mesh18",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Mesh18.wo3",
+            "bsdf": "Light"
+        },
+        {
+            "name": "Cube",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Cube.wo3",
+            "bsdf": "Industrial_Rusty_Iron"
+        },
+        {
+            "name": "Sphere.001",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Sphere.001.wo3",
+            "bsdf": "Industrial_Rusty_Iron"
+        },
+        {
+            "name": "Plane",
+            "transform": {"scale":[2,1,2]},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Plane.wo3",
+            "bsdf": "Material_1"
+        },
+       
+        
+        {
+            "name": "GD_Mesh.001",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "GD_Mesh.001.wo3",
+            "bsdf": "painted_scratched_metal"
+        },
+        {
+            "name": "Cube.006_Cube.010",
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file": "Cube.006_Cube.010.wo3",
+            "bsdf": "painted_scratched_mix_industrial_iron"
+        },
+        
+    ],
+    "camera": {
+        "tonemap": "gamma",
+        "resolution": [
+            1280,
+            720
+        ],
+        "reconstruction_filter": "tent",
+        "transform": {
+             "position": [
+                -8.504,
+                12.79,
+                10.793
+            ],
+            "look_at": [
+                0,
+                3.299,
+                0
+            ],
+            "up": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "type": "pinhole",
+        "fov": 60.0
+    },
+    "integrator": {
+        "min_bounces": 0,
+        "max_bounces": 64,
+        "enable_consistency_checks": false,
+        "enable_two_sided_shading": true,
+        "type": "path_tracer",
+        "enable_light_sampling": true,
+        "enable_volume_light_sampling": true
+    },
+    "renderer": {
+        "overwrite_output_files": true,
+        "adaptive_sampling": true,
+        "enable_resume_render": false,
+        "stratified_sampler": true,
+        "scene_bvh": true,
+        "spp": 32768,
+        "spp_step": 32768,
+        "checkpoint_interval": "0",
+        "timeout": "0",
+        "output_file": "TungstenRender.png",
+		"hdr_output_file":"Cycles.exr",
+        "resume_render_file": "TungstenRenderState.dat"
+    }
+}
