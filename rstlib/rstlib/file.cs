@@ -15,6 +15,8 @@ namespace rstlib
         public Integrator integrator;
         public Renderer renderer;
 
+        public List<BSDF_> bSDF_s;
+
         public static string ProAlbedo(string s )
         {
             int i = 0;
@@ -44,17 +46,54 @@ namespace rstlib
                 }
                 else
                 {
-                    j = s.IndexOf(",", i);
-                    j = s.IndexOf(",", j+1);
-                    j = s.IndexOf(",", j+1);
-                    strindex = j;
+                    //j = s.IndexOf(",", i);
+                    //j = s.IndexOf(",", j+1);
+                    //j = s.IndexOf(",", j+1);
+                    strindex = i+8;
                 }
                 i = s.IndexOf("albedo", i+1);
+
+                if (i == -1)
+                {
+                    restr += new string(s_c, strindex, s_c.Length - strindex);
+                    break;
+                }
+                    //break;
                 j = s.IndexOf(",", i);
             }
           //  if(s[i+7]!='[')
 
-            return null;
+            return restr;
+        }
+
+        public  void ProBSDF(string s)
+        {
+            int num = 0;
+
+            int i = 0;
+            int j = 0;
+            int strindex = 0;
+
+            string restr = null;
+            char[] s_c = s.ToCharArray();
+
+            i = s.IndexOf("bsdfs", 0);
+
+            while(num<bsdfs.Count)
+            {
+                i = s.IndexOf("{", i + 1);
+                
+                j = s.IndexOf("}", i);
+
+                
+                bSDF_s.Add( new BSDF_(num++, new string(s_c, i, j - i+1)));
+            }
+           
+        }
+
+        public static void ReName(string path,string name)
+        {
+            System.IO.Directory.Move(path, name);
         }
     }
 }

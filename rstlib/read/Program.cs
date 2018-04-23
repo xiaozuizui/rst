@@ -15,9 +15,10 @@ namespace read
             FileStream stream = new FileStream("./scene.json", FileMode.Open);// ofd.FileName;
             StreamReader streamReader = new StreamReader(stream);
             string json = streamReader.ReadToEnd();
-            JsonFile.ProAlbedo(json);
+
             //var temp = JsonConvert.DeserializeObject(json);
-            //JsonFile temp = JsonConvert.DeserializeObject<JsonFile>(json);
+            JsonFile temp = JsonConvert.DeserializeObject<JsonFile>(json);
+            temp.ProBSDF(json);
            // Type t = temp.GetType();
         }
     }
