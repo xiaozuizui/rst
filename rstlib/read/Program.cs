@@ -18,7 +18,8 @@ namespace read
 
             //var temp = JsonConvert.DeserializeObject(json);
             JsonFile temp = JsonConvert.DeserializeObject<JsonFile>(json);
-            temp.ProBSDF(json);
+            Process.bSDF_s = new List<BSDF_>();
+            Process.ProBSDF(json,temp.bsdfs.Count);
            // Type t = temp.GetType();
         }
     }

@@ -66,7 +66,7 @@ namespace rstlib
             return restr;
         }
 
-        public  void ProBSDF(string s)
+        public void ProBSDF(string s)
         {
             int num = 0;
 
@@ -77,13 +77,13 @@ namespace rstlib
             string restr = null;
             char[] s_c = s.ToCharArray();
 
-            i = s.IndexOf("bsdfs", 0);
+            i = s.IndexOf("bsdfs", 0, StringComparison.Ordinal);
 
             while(num<bsdfs.Count)
             {
-                i = s.IndexOf("{", i + 1);
+                i = s.IndexOf("{", i + 1, StringComparison.Ordinal);
                 
-                j = s.IndexOf("}", i);
+                j = s.IndexOf("}", i, StringComparison.Ordinal);
 
                 
                 bSDF_s.Add( new BSDF_(num++, new string(s_c, i, j - i+1)));

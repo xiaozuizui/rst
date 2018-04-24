@@ -48,6 +48,7 @@
     <Compile Include="ChangeFileName.cs" />
     <Compile Include="Media.cs" />
     <Compile Include="Primitives.cs" />
+    <Compile Include="Process.cs" />
     <Compile Include="ReadFile.cs" />
     <Compile Include="file.cs" />
     <Compile Include="Integrator.cs" />
