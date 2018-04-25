@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace rstlib
 {
-    public class Primitives
+    public class Primitive
     {
+    }
+
+    public class Primitive_
+    {
+        public int num;
+        public string content;
+
+        public Primitive_(int i, string c)
+        {
+            num = i;
+            content = c;
+        }
     }
 }

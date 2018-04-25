@@ -119,13 +119,7 @@
         }
     ],
     "primitives": [
-		{
-			"transform":{"position":[0,30,0],"scale":[20,0,20],"rotation":[180,0,0]},
-			"bsdf":"light",
-			"type":"quad",
-			"emission":20
-			
-		},
+		
         {
             "name": "Leg_Circle_1",
             "transform": {},

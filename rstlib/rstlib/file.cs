@@ -10,7 +10,7 @@ namespace rstlib
     {
         //public Media media;
         public List<BSDF> bsdfs;
-        public List<Primitives> primitives;
+        public List<Primitive> primitives;
         public Camera camera;
         public Integrator integrator;
         public Renderer renderer;
