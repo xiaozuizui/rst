@@ -1,0 +1,6462 @@
+{
+"media":[],
+"primitives":[ {
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "528.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "590.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "410.wo3",
+            "bsdf":"21"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "564.wo3",
+            "bsdf":"15"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "106.wo3",
+            "bsdf":"15"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "319.wo3",
+            "bsdf":"5"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "329.wo3",
+            "bsdf":"24"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "407.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "754.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "573.wo3",
+            "bsdf":"25"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "122.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "349.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "716.wo3",
+            "bsdf":"15"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "481.wo3",
+            "bsdf":"6"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "654.wo3",
+            "bsdf":"18"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "27.wo3",
+            "bsdf":"19"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "242.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "131.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "206.wo3",
+            "bsdf":"16"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "645.wo3",
+            "bsdf":"31"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "658.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "650.wo3",
+            "bsdf":"6"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "276.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "823.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "152.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "389.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "412.wo3",
+            "bsdf":"20"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "543.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "734.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "118.wo3",
+            "bsdf":"27"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "39.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "221.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "771.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "401.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "249.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "632.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "238.wo3",
+            "bsdf":"3"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "651.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "415.wo3",
+            "bsdf":"20"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "277.wo3",
+            "bsdf":"20"
+        },
+!{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "0.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "467.wo3",
+            "bsdf":"5"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "56.wo3",
+            "bsdf":"4"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "671.wo3",
+            "bsdf":"13"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "564.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "416.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "643.wo3",
+            "bsdf":"11"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "589.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "805.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "113.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "2.wo3",
+            "bsdf":"15"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "490.wo3",
+            "bsdf":"4"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "599.wo3",
+            "bsdf":"5"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "174.wo3",
+            "bsdf":"18"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "330.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "338.wo3",
+            "bsdf":"15"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "574.wo3",
+            "bsdf":"20"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "106.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "416.wo3",
+            "bsdf":"4"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "121.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "468.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "265.wo3",
+            "bsdf":"25"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "627.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "25.wo3",
+            "bsdf":"15"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "626.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "176.wo3",
+            "bsdf":"3"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "475.wo3",
+            "bsdf":"10"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "712.wo3",
+            "bsdf":"18"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "823.wo3",
+            "bsdf":"11"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "728.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "797.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "67.wo3",
+            "bsdf":"29"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "363.wo3",
+            "bsdf":"8"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "734.wo3",
+            "bsdf":"8"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "93.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "517.wo3",
+            "bsdf":"11"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "646.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "91.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "777.wo3",
+            "bsdf":"29"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "799.wo3",
+            "bsdf":"13"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "131.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "537.wo3",
+            "bsdf":"16"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "155.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "224.wo3",
+            "bsdf":"4"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "572.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "678.wo3",
+            "bsdf":"10"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "826.wo3",
+            "bsdf":"15"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "258.wo3",
+            "bsdf":"19"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "422.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "785.wo3",
+            "bsdf":"6"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "124.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "319.wo3",
+            "bsdf":"25"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "643.wo3",
+            "bsdf":"24"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "29.wo3",
+            "bsdf":"31"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "512.wo3",
+            "bsdf":"4"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "341.wo3",
+            "bsdf":"24"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "467.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "670.wo3",
+            "bsdf":"25"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "76.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "96.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "24.wo3",
+            "bsdf":"27"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "112.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "657.wo3",
+            "bsdf":"13"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "475.wo3",
+            "bsdf":"29"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "78.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "379.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "565.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "108.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "540.wo3",
+            "bsdf":"25"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "472.wo3",
+            "bsdf":"11"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "450.wo3",
+            "bsdf":"29"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "582.wo3",
+            "bsdf":"18"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "572.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "251.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "843.wo3",
+            "bsdf":"15"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "165.wo3",
+            "bsdf":"25"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "760.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "466.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "483.wo3",
+            "bsdf":"15"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "584.wo3",
+            "bsdf":"27"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "740.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "630.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "475.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "526.wo3",
+            "bsdf":"6"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "223.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "805.wo3",
+            "bsdf":"24"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "824.wo3",
+            "bsdf":"27"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "809.wo3",
+            "bsdf":"27"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "651.wo3",
+            "bsdf":"21"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "190.wo3",
+            "bsdf":"4"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "258.wo3",
+            "bsdf":"10"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "337.wo3",
+            "bsdf":"13"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "740.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "749.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "111.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "808.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "467.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "96.wo3",
+            "bsdf":"16"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "8.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "761.wo3",
+            "bsdf":"20"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "79.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "173.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "265.wo3",
+            "bsdf":"10"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "230.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "143.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "130.wo3",
+            "bsdf":"11"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "139.wo3",
+            "bsdf":"3"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "498.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "49.wo3",
+            "bsdf":"31"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "737.wo3",
+            "bsdf":"13"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "139.wo3",
+            "bsdf":"20"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "622.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "326.wo3",
+            "bsdf":"20"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "345.wo3",
+            "bsdf":"20"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "766.wo3",
+            "bsdf":"6"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "648.wo3",
+            "bsdf":"11"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "800.wo3",
+            "bsdf":"21"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "784.wo3",
+            "bsdf":"18"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "419.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "67.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "832.wo3",
+            "bsdf":"19"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "700.wo3",
+            "bsdf":"31"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "496.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "301.wo3",
+            "bsdf":"4"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "523.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "85.wo3",
+            "bsdf":"10"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "658.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "224.wo3",
+            "bsdf":"31"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "721.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "729.wo3",
+            "bsdf":"19"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "181.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "291.wo3",
+            "bsdf":"8"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "662.wo3",
+            "bsdf":"27"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "614.wo3",
+            "bsdf":"31"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "674.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "64.wo3",
+            "bsdf":"21"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "690.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "712.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "21.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "577.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "489.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "136.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "736.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "74.wo3",
+            "bsdf":"27"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "30.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "210.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "120.wo3",
+            "bsdf":"20"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "354.wo3",
+            "bsdf":"24"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "753.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "112.wo3",
+            "bsdf":"3"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "837.wo3",
+            "bsdf":"6"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "321.wo3",
+            "bsdf":"25"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "565.wo3",
+            "bsdf":"15"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "133.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "515.wo3",
+            "bsdf":"29"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "329.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "89.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "648.wo3",
+            "bsdf":"10"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "211.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "10.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "41.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "119.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "584.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "75.wo3",
+            "bsdf":"18"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "537.wo3",
+            "bsdf":"18"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "849.wo3",
+            "bsdf":"21"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "575.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "312.wo3",
+            "bsdf":"3"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "513.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "816.wo3",
+            "bsdf":"21"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "784.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "778.wo3",
+            "bsdf":"31"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "146.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "295.wo3",
+            "bsdf":"15"
+        },
+!{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "0.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "302.wo3",
+            "bsdf":"19"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "715.wo3",
+            "bsdf":"24"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "723.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "832.wo3",
+            "bsdf":"3"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "450.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "10.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "723.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "554.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "191.wo3",
+            "bsdf":"15"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "427.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "709.wo3",
+            "bsdf":"8"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "156.wo3",
+            "bsdf":"6"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "64.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "264.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "389.wo3",
+            "bsdf":"6"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "737.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "380.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "130.wo3",
+            "bsdf":"16"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "387.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "685.wo3",
+            "bsdf":"27"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "481.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "557.wo3",
+            "bsdf":"19"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "461.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "789.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "112.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "270.wo3",
+            "bsdf":"15"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "428.wo3",
+            "bsdf":"5"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "552.wo3",
+            "bsdf":"16"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "389.wo3",
+            "bsdf":"25"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "747.wo3",
+            "bsdf":"3"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "825.wo3",
+            "bsdf":"13"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "763.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "10.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "180.wo3",
+            "bsdf":"27"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "611.wo3",
+            "bsdf":"3"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "579.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "486.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "433.wo3",
+            "bsdf":"25"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "757.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "377.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "154.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "362.wo3",
+            "bsdf":"16"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "403.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "63.wo3",
+            "bsdf":"27"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "533.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "209.wo3",
+            "bsdf":"24"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "661.wo3",
+            "bsdf":"11"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "17.wo3",
+            "bsdf":"24"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "134.wo3",
+            "bsdf":"8"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "485.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "707.wo3",
+            "bsdf":"20"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "106.wo3",
+            "bsdf":"29"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "232.wo3",
+            "bsdf":"21"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "66.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "758.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "330.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "124.wo3",
+            "bsdf":"19"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "753.wo3",
+            "bsdf":"10"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "145.wo3",
+            "bsdf":"19"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "416.wo3",
+            "bsdf":"3"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "203.wo3",
+            "bsdf":"18"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "76.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "753.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "260.wo3",
+            "bsdf":"21"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "203.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "153.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "214.wo3",
+            "bsdf":"24"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "348.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "181.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "190.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "301.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "46.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "845.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "179.wo3",
+            "bsdf":"11"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "58.wo3",
+            "bsdf":"3"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "757.wo3",
+            "bsdf":"31"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "841.wo3",
+            "bsdf":"16"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "606.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "668.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "505.wo3",
+            "bsdf":"21"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "495.wo3",
+            "bsdf":"16"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "330.wo3",
+            "bsdf":"19"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "752.wo3",
+            "bsdf":"10"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "623.wo3",
+            "bsdf":"8"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "361.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "338.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "70.wo3",
+            "bsdf":"31"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "370.wo3",
+            "bsdf":"24"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "708.wo3",
+            "bsdf":"4"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "635.wo3",
+            "bsdf":"13"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "671.wo3",
+            "bsdf":"5"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "811.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "227.wo3",
+            "bsdf":"8"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "758.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "318.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "634.wo3",
+            "bsdf":"28"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "400.wo3",
+            "bsdf":"20"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "413.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "788.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "508.wo3",
+            "bsdf":"13"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "408.wo3",
+            "bsdf":"25"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "807.wo3",
+            "bsdf":"6"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "270.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "48.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "160.wo3",
+            "bsdf":"31"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "317.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "393.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "283.wo3",
+            "bsdf":"8"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "74.wo3",
+            "bsdf":"25"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "318.wo3",
+            "bsdf":"4"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "296.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "158.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "272.wo3",
+            "bsdf":"3"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "13.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "837.wo3",
+            "bsdf":"6"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "453.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "262.wo3",
+            "bsdf":"11"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "528.wo3",
+            "bsdf":"19"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "347.wo3",
+            "bsdf":"8"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "645.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "803.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "324.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "221.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "250.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "11.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "12.wo3",
+            "bsdf":"5"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "335.wo3",
+            "bsdf":"19"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "91.wo3",
+            "bsdf":"12"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "102.wo3",
+            "bsdf":"13"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "330.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "836.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "302.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "319.wo3",
+            "bsdf":"18"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "657.wo3",
+            "bsdf":"23"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "398.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "508.wo3",
+            "bsdf":"31"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "502.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "456.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "730.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "536.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "52.wo3",
+            "bsdf":"21"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "367.wo3",
+            "bsdf":"1"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "124.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "429.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "726.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "6.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "147.wo3",
+            "bsdf":"22"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "533.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "622.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "772.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "160.wo3",
+            "bsdf":"31"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "641.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "261.wo3",
+            "bsdf":"27"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "575.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "403.wo3",
+            "bsdf":"10"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": false,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "116.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "560.wo3",
+            "bsdf":"19"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "376.wo3",
+            "bsdf":"11"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "753.wo3",
+            "bsdf":"20"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "539.wo3",
+            "bsdf":"29"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "293.wo3",
+            "bsdf":"6"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "725.wo3",
+            "bsdf":"0"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "185.wo3",
+            "bsdf":"8"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "257.wo3",
+            "bsdf":"21"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "171.wo3",
+            "bsdf":"8"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "184.wo3",
+            "bsdf":"5"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "309.wo3",
+            "bsdf":"29"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "594.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "88.wo3",
+            "bsdf":"25"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "767.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "208.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "588.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "625.wo3",
+            "bsdf":"13"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "57.wo3",
+            "bsdf":"9"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "777.wo3",
+            "bsdf":"27"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "709.wo3",
+            "bsdf":"14"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "337.wo3",
+            "bsdf":"20"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "243.wo3",
+            "bsdf":"2"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "607.wo3",
+            "bsdf":"7"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "828.wo3",
+            "bsdf":"6"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "787.wo3",
+            "bsdf":"29"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "387.wo3",
+            "bsdf":"30"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "443.wo3",
+            "bsdf":"17"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "687.wo3",
+            "bsdf":"26"
+        },
+{
+            "transform": {},
+            "type": "mesh",
+            "smooth": true,
+            "backface_culling": false,
+            "recompute_normals": false,
+            "file":  "37.wo3",
+            "bsdf":"1"
+        },
+],
+"bsdfs":[{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"21",
+            "albedo": [
+                0.573158860206604,
+                0.2157643884420395,
+                0.022012993693351746
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"5",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "Al"
+        },
+{
+            "name":"24",
+            "albedo": 0.00631,
+            "type": "lambert"
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"25",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"6",
+            "albedo": "textures/floor_tiles.png",
+            "bump": "textures/floor_tiles.png",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"18",
+            "albedo": 0.893289,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"19",
+            "albedo": 0.684615,
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"16",
+            "albedo": 1.0,
+            "type": "null"
+        },
+{
+            "name":"31",
+            "albedo": 0.531049,
+            "bump": "textures/foam_bump.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"6",
+            "albedo": "textures/floor_tiles.png",
+            "bump": "textures/floor_tiles.png",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"27",
+            "albedo": "textures/wallpaper-2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"3",
+            "albedo": 1.0,
+            "type": "conductor",
+            "material": "Al"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"5",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "Al"
+        },
+{
+            "name":"4",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"13",
+            "albedo": [
+                0.058187179267406464,
+                0.03423020616173744,
+                0.017936432734131813
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"11",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"4",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"5",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "Al"
+        },
+{
+            "name":"18",
+            "albedo": 0.893289,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"4",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"25",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"3",
+            "albedo": 1.0,
+            "type": "conductor",
+            "material": "Al"
+        },
+{
+            "name":"10",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"18",
+            "albedo": 0.893289,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"11",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"29",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"8",
+            "albedo": "textures/marble.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"8",
+            "albedo": "textures/marble.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"11",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"29",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"13",
+            "albedo": [
+                0.058187179267406464,
+                0.03423020616173744,
+                0.017936432734131813
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"16",
+            "albedo": 1.0,
+            "type": "null"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"4",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"10",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"19",
+            "albedo": 0.684615,
+            "type": "lambert"
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"6",
+            "albedo": "textures/floor_tiles.png",
+            "bump": "textures/floor_tiles.png",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"25",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"24",
+            "albedo": 0.00631,
+            "type": "lambert"
+        },
+{
+            "name":"31",
+            "albedo": 0.531049,
+            "bump": "textures/foam_bump.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"4",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"24",
+            "albedo": 0.00631,
+            "type": "lambert"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"25",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"27",
+            "albedo": "textures/wallpaper-2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"13",
+            "albedo": [
+                0.058187179267406464,
+                0.03423020616173744,
+                0.017936432734131813
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"29",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"25",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"11",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"29",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"18",
+            "albedo": 0.893289,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"25",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"27",
+            "albedo": "textures/wallpaper-2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"6",
+            "albedo": "textures/floor_tiles.png",
+            "bump": "textures/floor_tiles.png",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"24",
+            "albedo": 0.00631,
+            "type": "lambert"
+        },
+{
+            "name":"27",
+            "albedo": "textures/wallpaper-2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"27",
+            "albedo": "textures/wallpaper-2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"21",
+            "albedo": [
+                0.573158860206604,
+                0.2157643884420395,
+                0.022012993693351746
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"4",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"10",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"13",
+            "albedo": [
+                0.058187179267406464,
+                0.03423020616173744,
+                0.017936432734131813
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"16",
+            "albedo": 1.0,
+            "type": "null"
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"10",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"11",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"3",
+            "albedo": 1.0,
+            "type": "conductor",
+            "material": "Al"
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"31",
+            "albedo": 0.531049,
+            "bump": "textures/foam_bump.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"13",
+            "albedo": [
+                0.058187179267406464,
+                0.03423020616173744,
+                0.017936432734131813
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"6",
+            "albedo": "textures/floor_tiles.png",
+            "bump": "textures/floor_tiles.png",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"11",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"21",
+            "albedo": [
+                0.573158860206604,
+                0.2157643884420395,
+                0.022012993693351746
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"18",
+            "albedo": 0.893289,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"19",
+            "albedo": 0.684615,
+            "type": "lambert"
+        },
+{
+            "name":"31",
+            "albedo": 0.531049,
+            "bump": "textures/foam_bump.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"4",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"10",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"31",
+            "albedo": 0.531049,
+            "bump": "textures/foam_bump.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"19",
+            "albedo": 0.684615,
+            "type": "lambert"
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"8",
+            "albedo": "textures/marble.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"27",
+            "albedo": "textures/wallpaper-2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"31",
+            "albedo": 0.531049,
+            "bump": "textures/foam_bump.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"21",
+            "albedo": [
+                0.573158860206604,
+                0.2157643884420395,
+                0.022012993693351746
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"27",
+            "albedo": "textures/wallpaper-2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"24",
+            "albedo": 0.00631,
+            "type": "lambert"
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"3",
+            "albedo": 1.0,
+            "type": "conductor",
+            "material": "Al"
+        },
+{
+            "name":"6",
+            "albedo": "textures/floor_tiles.png",
+            "bump": "textures/floor_tiles.png",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"25",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"29",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"10",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"18",
+            "albedo": 0.893289,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"18",
+            "albedo": 0.893289,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"21",
+            "albedo": [
+                0.573158860206604,
+                0.2157643884420395,
+                0.022012993693351746
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"3",
+            "albedo": 1.0,
+            "type": "conductor",
+            "material": "Al"
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"21",
+            "albedo": [
+                0.573158860206604,
+                0.2157643884420395,
+                0.022012993693351746
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"31",
+            "albedo": 0.531049,
+            "bump": "textures/foam_bump.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"19",
+            "albedo": 0.684615,
+            "type": "lambert"
+        },
+{
+            "name":"24",
+            "albedo": 0.00631,
+            "type": "lambert"
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"3",
+            "albedo": 1.0,
+            "type": "conductor",
+            "material": "Al"
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"8",
+            "albedo": "textures/marble.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"6",
+            "albedo": "textures/floor_tiles.png",
+            "bump": "textures/floor_tiles.png",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"6",
+            "albedo": "textures/floor_tiles.png",
+            "bump": "textures/floor_tiles.png",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"16",
+            "albedo": 1.0,
+            "type": "null"
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"27",
+            "albedo": "textures/wallpaper-2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"19",
+            "albedo": 0.684615,
+            "type": "lambert"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"15",
+            "albedo": [
+                0.0477757565677166,
+                0.020951131358742714,
+                0.007155036553740501
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"5",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "Al"
+        },
+{
+            "name":"16",
+            "albedo": 1.0,
+            "type": "null"
+        },
+{
+            "name":"25",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"3",
+            "albedo": 1.0,
+            "type": "conductor",
+            "material": "Al"
+        },
+{
+            "name":"13",
+            "albedo": [
+                0.058187179267406464,
+                0.03423020616173744,
+                0.017936432734131813
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"27",
+            "albedo": "textures/wallpaper-2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"3",
+            "albedo": 1.0,
+            "type": "conductor",
+            "material": "Al"
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"25",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"16",
+            "albedo": 1.0,
+            "type": "null"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"27",
+            "albedo": "textures/wallpaper-2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"24",
+            "albedo": 0.00631,
+            "type": "lambert"
+        },
+{
+            "name":"11",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"24",
+            "albedo": 0.00631,
+            "type": "lambert"
+        },
+{
+            "name":"8",
+            "albedo": "textures/marble.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"29",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"21",
+            "albedo": [
+                0.573158860206604,
+                0.2157643884420395,
+                0.022012993693351746
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"19",
+            "albedo": 0.684615,
+            "type": "lambert"
+        },
+{
+            "name":"10",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"19",
+            "albedo": 0.684615,
+            "type": "lambert"
+        },
+{
+            "name":"3",
+            "albedo": 1.0,
+            "type": "conductor",
+            "material": "Al"
+        },
+{
+            "name":"18",
+            "albedo": 0.893289,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"21",
+            "albedo": [
+                0.573158860206604,
+                0.2157643884420395,
+                0.022012993693351746
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"24",
+            "albedo": 0.00631,
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"11",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"3",
+            "albedo": 1.0,
+            "type": "conductor",
+            "material": "Al"
+        },
+{
+            "name":"31",
+            "albedo": 0.531049,
+            "bump": "textures/foam_bump.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"16",
+            "albedo": 1.0,
+            "type": "null"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"21",
+            "albedo": [
+                0.573158860206604,
+                0.2157643884420395,
+                0.022012993693351746
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"16",
+            "albedo": 1.0,
+            "type": "null"
+        },
+{
+            "name":"19",
+            "albedo": 0.684615,
+            "type": "lambert"
+        },
+{
+            "name":"10",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"8",
+            "albedo": "textures/marble.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"31",
+            "albedo": 0.531049,
+            "bump": "textures/foam_bump.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"24",
+            "albedo": 0.00631,
+            "type": "lambert"
+        },
+{
+            "name":"4",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"13",
+            "albedo": [
+                0.058187179267406464,
+                0.03423020616173744,
+                0.017936432734131813
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"5",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "Al"
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"8",
+            "albedo": "textures/marble.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"28",
+            "albedo": 0.4259,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.05,
+            "material": "Al"
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"13",
+            "albedo": [
+                0.058187179267406464,
+                0.03423020616173744,
+                0.017936432734131813
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"25",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"6",
+            "albedo": "textures/floor_tiles.png",
+            "bump": "textures/floor_tiles.png",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"31",
+            "albedo": 0.531049,
+            "bump": "textures/foam_bump.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"8",
+            "albedo": "textures/marble.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"25",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"4",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"3",
+            "albedo": 1.0,
+            "type": "conductor",
+            "material": "Al"
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"6",
+            "albedo": "textures/floor_tiles.png",
+            "bump": "textures/floor_tiles.png",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"11",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"19",
+            "albedo": 0.684615,
+            "type": "lambert"
+        },
+{
+            "name":"8",
+            "albedo": "textures/marble.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"5",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "Al"
+        },
+{
+            "name":"19",
+            "albedo": 0.684615,
+            "type": "lambert"
+        },
+{
+            "name":"12",
+            "albedo": "textures/wood2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"13",
+            "albedo": [
+                0.058187179267406464,
+                0.03423020616173744,
+                0.017936432734131813
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"18",
+            "albedo": 0.893289,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"23",
+            "albedo": 0.612066,
+            "type": "plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"31",
+            "albedo": 0.531049,
+            "bump": "textures/foam_bump.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"21",
+            "albedo": [
+                0.573158860206604,
+                0.2157643884420395,
+                0.022012993693351746
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"22",
+            "albedo": [
+                0.06381487101316452,
+                0.022012993693351746,
+                0.0012017394183203578
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"31",
+            "albedo": 0.531049,
+            "bump": "textures/foam_bump.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"27",
+            "albedo": "textures/wallpaper-2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"10",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"19",
+            "albedo": 0.684615,
+            "type": "lambert"
+        },
+{
+            "name":"11",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"29",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"6",
+            "albedo": "textures/floor_tiles.png",
+            "bump": "textures/floor_tiles.png",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"0",
+            "albedo": 1.0,
+            "type": "transparency",
+            
+            "alpha": "textures/rug_mask.png"
+        },
+{
+            "name":"8",
+            "albedo": "textures/marble.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"21",
+            "albedo": [
+                0.573158860206604,
+                0.2157643884420395,
+                0.022012993693351746
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"8",
+            "albedo": "textures/marble.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"5",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "Al"
+        },
+{
+            "name":"29",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"25",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"13",
+            "albedo": [
+                0.058187179267406464,
+                0.03423020616173744,
+                0.017936432734131813
+            ],
+            "type": "lambert"
+        },
+{
+            "name":"9",
+            "albedo": 1.0,
+            "type": "thinsheet",
+            "ior": 1.5,
+            "enable_interference": false,
+            "thickness": 0.5,
+            "sigma_a": 0.0
+        },
+{
+            "name":"27",
+            "albedo": "textures/wallpaper-2.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"14",
+            "albedo": "textures/picture1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"20",
+            "albedo": "textures/wallpaper-1.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"2",
+            "albedo": 1.0,
+            "type": "mirror"
+        },
+{
+            "name":"7",
+            "albedo": 0.00631,
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.1
+        },
+{
+            "name":"6",
+            "albedo": "textures/floor_tiles.png",
+            "bump": "textures/floor_tiles.png",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.2
+        },
+{
+            "name":"29",
+            "albedo": 0.578596,
+            "type": "lambert"
+        },
+{
+            "name":"30",
+            "albedo": 1.0,
+            "type": "rough_conductor",
+            "distribution": "ggx",
+            "roughness": 0.1,
+            "material": "TiN"
+        },
+{
+            "name":"17",
+            "albedo": 0.893289,
+            "type": "lambert"
+        },
+{
+            "name":"26",
+            "albedo": "textures/wood.jpg",
+            "type": "lambert"
+        },
+{
+            "name":"1",
+            "albedo": "textures/wood.jpg",
+            "type": "rough_plastic",
+            "ior": 1.5,
+            "thickness": 1.0,
+            "sigma_a": 0.0,
+            "distribution": "ggx",
+            "roughness": 0.15
+        },
+],
+"integrator": {
+        "min_bounces": 0,
+        "max_bounces": 64,
+        "enable_consistency_checks": false,
+        "enable_two_sided_shading": true,
+        "type": "path_tracer",
+        "enable_light_sampling": true,
+        "enable_volume_light_sampling": true
+    },
+    "renderer": {
+        "overwrite_output_files": true,
+        "adaptive_sampling": true,
+        "enable_resume_render": false,
+        "stratified_sampler": true,
+        "scene_bvh": true,
+        "spp": 16,
+        "spp_step": 32768,
+        "checkpoint_interval": "0",
+        "timeout": "0",
+        "output_file": "TungstenRender.png",
+		
+        "resume_render_file": "TungstenRenderState.dat",
+    "hdr_output_file":"test5.exr" },
+ "camera": {"tonemap": "filmic",
+       "reconstruction_filter": "tent",
+        "transform": {
+            "position": [0.007240534,0.912405,-0.2275839], "look_at": [-2.787563,0.9699121,-2.67759],"up": [0,1,0]
+ },"resolution": [1024,1204],"type": "pinhole",
+        "fov":55},}

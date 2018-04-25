@@ -7,3 +7,12 @@ D:\rst\rstlib\rstlib\obj\Debug\rstlib.csproj.CoreCompileInputs.cache
 D:\rst\rstlib\rstlib\obj\Debug\rstlib.csproj.CopyComplete
 D:\rst\rstlib\rstlib\obj\Debug\rstlib.dll
 D:\rst\rstlib\rstlib\obj\Debug\rstlib.pdb
+E:\rst\rstlib\rstlib\bin\Debug\rstlib.dll
+E:\rst\rstlib\rstlib\bin\Debug\rstlib.pdb
+E:\rst\rstlib\rstlib\bin\Debug\Newtonsoft.Json.dll
+E:\rst\rstlib\rstlib\bin\Debug\Newtonsoft.Json.xml
+E:\rst\rstlib\rstlib\obj\Debug\rstlib.csprojResolveAssemblyReference.cache
+E:\rst\rstlib\rstlib\obj\Debug\rstlib.csproj.CoreCompileInputs.cache
+E:\rst\rstlib\rstlib\obj\Debug\rstlib.csproj.CopyComplete
+E:\rst\rstlib\rstlib\obj\Debug\rstlib.dll
+E:\rst\rstlib\rstlib\obj\Debug\rstlib.pdb
